@@ -10,13 +10,18 @@
   "categories": [
     "Themes"
   ],
+  "icon":"assets/b_theme.png",
   "contributes": {
     "themes": [
       {
         "label": "Barbie Light",
         "uiTheme": "vs",
-        "path": "./themes/Barbie Light-color-theme.json"
+        "path": "./themes/barbie-light-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LuanKisaki/barbie-light-theme.git"
   }
 }
