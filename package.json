@@ -3,6 +3,7 @@
   "displayName": "Barbie Light",
   "description": "Theme created to familiarize female children with affection for the programming environment",
   "version": "0.0.1",
+  "publisher": "LuanKisaki",
   "engines": {
     "vscode": "^1.81.0"
   },
