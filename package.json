@@ -1,0 +1,21 @@
+{
+  "name": "barbie-light-theme",
+  "displayName": "Barbie Light Theme",
+  "description": "Theme created to familiarize female children with affection for the programming environment",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Barbie Light",
+        "uiTheme": "vs",
+        "path": "./themes/Barbie Light-color-theme.json"
+      }
+    ]
+  }
+}
