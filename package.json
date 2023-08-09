@@ -2,7 +2,7 @@
   "name": "barbie-light-theme",
   "displayName": "Barbie Light",
   "description": "Theme created to familiarize female children with affection for the programming environment",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "LuanKisaki",
   "engines": {
     "vscode": "^1.81.0"
@@ -10,7 +10,7 @@
   "categories": [
     "Themes"
   ],
-  "icon":"assets/b_theme.png",
+  "icon":"assets/b_logo.png",
   "contributes": {
     "themes": [
       {
